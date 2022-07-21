@@ -1,3 +1,5 @@
+[![linux.jpg](https://i.postimg.cc/wTC4SFN8/linux.jpg)](https://postimg.cc/dL99C2n4)
+
 # conceptos básicos sobre linux:
 
 * [Que es linux?](que_es_linux_00.pdf)
