@@ -8,5 +8,5 @@
 * [Listados de archivos](listados_de_archivos_03.pdf)
 * [Acceso administrativo](acceso_administrativo_04.pdf)
 * [Permisos](permisos_05.pdf)
-
+* [Cambiar los permisos de los archivos](cambiar_los_permisos_de_los_archivos_06.pdf)
 
