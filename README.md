@@ -1,4 +1,4 @@
-[![linux.jpg](https://i.postimg.cc/wTC4SFN8/linux.jpg)](https://postimg.cc/dL99C2n4)
+[![lalala.jpg](https://i.postimg.cc/FRhHGjp0/lalala.jpg)](https://postimg.cc/CZ60xnWK)
 
 # conceptos básicos sobre linux:
 
