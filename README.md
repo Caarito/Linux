@@ -11,6 +11,6 @@
 * [Cambiar los permisos de los archivos](cambiar_los_permisos_de_los_archivos_06.pdf)
 * [Cambiar el propietario de un archivo](cambiar_el_propietario_de_un_archivo_07.pdf)
 * [Visualización de archivos](visualizacion_de_archivos_08.pdf)
-
+* [Copiar archivos](copiar_archivos_09.pdf)
 
 
