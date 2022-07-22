@@ -13,5 +13,6 @@
 * [Visualización de archivos](visualizacion_de_archivos_08.pdf)
 * [Copiar archivos](copiar_archivos_09.pdf)
 * [Mover archivos](mover_archivos_10.pdf)
+* [Eliminar archivos](eliminar_archivos_11.pdf)
 
 
