@@ -16,6 +16,8 @@
 * [Eliminar archivos](eliminar_archivos_11.pdf)
 * [Filtrados de entradas](filtrado_de_entradas_12.pdf)
 * [Apagar](apagar_13.pdf)
+* [Configuración de redes](configuracion_de_redes_14.pdf)
+
 
 
 
