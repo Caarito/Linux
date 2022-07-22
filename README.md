@@ -15,6 +15,9 @@
 * [Mover archivos](mover_archivos_10.pdf)
 * [Eliminar archivos](eliminar_archivos_11.pdf)
 * [Filtrados de entradas](filtrado_de_entradas_12.pdf)
+* [Apagar](apagar_13.pdf)
+
+
 
 
 
