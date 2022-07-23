@@ -20,8 +20,7 @@
 * [Visualización de procesos](visualizacion_de_procesos_15.pdf)
 * [Administración de paquetes](administracion_de_paquetes_16.pdf)
 * [Actualización de contraseñas de usuarios](actualizacion_de_contraseñas_de_usuarios_17.pdf)
-
-
+* [Redirección](redireccion_18.pdf)
 
 
 
