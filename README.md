@@ -18,6 +18,8 @@
 * [Apagar](apagar_13.pdf)
 * [Configuración de redes](configuracion_de_redes_14.pdf)
 * [Visualización de procesos](visualizacion_de_procesos_15.pdf)
+* [Administración de paquetes](administracion_de_paquetes_16.pdf)
+
 
 
 
